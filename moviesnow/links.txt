@@ -1,0 +1,21 @@
+
+API Key: 60bdfee6389e7f4eeb0416731180870f
+Base URL: https://api.themoviedb.org/3
+
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=60bdfee6389e7f4eeb0416731180870f
+
+Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=60bdfee6389e7f4eeb0416731180870f
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=60bdfee6389e7f4eeb0416731180870f
+
+Top Rated:
+https://api.themoviedb.org/3/movie/top_rated?api_key=60bdfee6389e7f4eeb0416731180870f
+
+Upcoming: 
+https://api.themoviedb.org/3/movie/upcoming?api_key=b80d59c33d6d57ed9c7e3713f91c188a
+
+Search:
+https://api.themoviedb.org/3/search/movie?api_key=60bdfee6389e7f4eeb0416731180870f&query=spiderman
